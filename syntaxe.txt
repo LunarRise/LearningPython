@@ -1,0 +1,3 @@
+indenter = 4 times space bar
+no {} or ;.
+don't mess with caps (bool = "True" or "False")
