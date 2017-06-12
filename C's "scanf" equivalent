@@ -1,11 +1,11 @@
-C's "scanf" equivalent : input
+#C's "scanf" equivalent : input
 
-#Exemple : if you use a string input for a age (number)
+"""Exemple : if you use a string input for a age (number)
            and then you want to add "2" to your age
            you have to write : age = int(input("How old are you ?  "))
                                age = age + 2
-                               print(age)
+                               print(age)"""
            
-           if you don't do that, you'll have something like 
-           [TypeError: Can't convert 'int' object to str implicitly]
+        """if you don't do that, you'll have something like 
+           [TypeError: Can't convert 'int' object to str implicitly]"""
            
