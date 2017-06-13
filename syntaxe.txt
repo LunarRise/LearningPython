@@ -1,5 +1,5 @@
 indenter = 4 times space bar
 no {} or ;.
 don't mess with caps (bool = "True" or "False")
-
+spaces too.
 Use prints : print("thing u want to write") #just like C but without ";" and "f"
